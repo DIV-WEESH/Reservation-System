@@ -1,0 +1,2 @@
+1 ExpressTrain 10:00 13:00 NewYork LosAngeles 5 10 
+2 ExdTrain 12:00 15:00 York Angeles 2 3 
